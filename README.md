@@ -1,2 +1,2 @@
 # scrapy_tutorial
-![alt text].scrapy_tutorial/tutorial/quotes.txt
+![quotes.txt](.scrapy_tutorial/tutorial/quotes.txt)
